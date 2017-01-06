@@ -13,20 +13,20 @@ BeautifulSoup4 was used and it can be installed via pip
 
 ## How To Use
 
-open terminal
-call python nhentai.py num num tags tags
+Open terminal
+Call python nhentai.py num num tags tags
 
-the first num is the start page, second num is the end page
-the tags are the tags of the manga (e.g. yaoi, yuri, loli, english, japanese, korean, chinese) #read the rules of tags in nhentai
-if you don't want to see a certain tags, use - sign before tag such as -yaoi -yuri -english
-tags can be character name, series name, or also artist's name
+The first num is the start page, second num is the end page
+The tags are the tags of the manga (e.g. yaoi, yuri, loli, english, japanese, korean, chinese) #read the rules of tags in nhentai
+If you don't want to see a certain tags, use - sign before tag such as -yaoi -yuri -english
+Tags can be character name, series name, or also artist's name
 
 
-an example of the script is
+An example of the script is
 
 python nhentai.py 1 10 english misaka mikoto -yuri -rape touma 
 
-the result of the script will be like
+The result of the script will be like
 
 Name of hentai
 Name of hentai - page.jpg
