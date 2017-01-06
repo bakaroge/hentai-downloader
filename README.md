@@ -20,8 +20,11 @@ The first num is the start page, second num is the end page
 
 
 The tags are the tags of the manga (e.g. yaoi, yuri, loli, english, japanese, korean, chinese)
+
 read the rules of tags in nhentai
+
 If you don't want to see a certain tags, use - sign before tag such as -yaoi -yuri -english
+
 Tags can be character name, series name, or also artist's name
 
 
