@@ -1,5 +1,7 @@
 ##Hentai Downloader
 
+
+
 These scripts are used to download hentai from nhentai.com
 It downloads all the manga found in a search bar in nhentai using the pre-defined tags and puts it in a folder called hentai
 
