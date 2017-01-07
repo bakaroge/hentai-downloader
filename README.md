@@ -1,6 +1,4 @@
-# Project Title
-
-Hentai Downloader
+##Hentai Downloader
 
 These scripts are used to download hentai from nhentai.com
 It downloads all the manga found in a search bar in nhentai using the pre-defined tags and puts it in a folder called hentai
@@ -45,4 +43,11 @@ Next name of hentai
 Downloadfile.py needs two input : Name and Identifier
 Identifier is the manga identifier found in the image file in the website https://i.nhentai.net/galleries/
 If only one manga wants to be downloaded, this will make download the manga and the name is up to you
+
+
+##TESTED
+
+This scripts are tested with:
+Mac OS X Mavericks with Python 2.7.10
+Ubuntu 16.0.4 with Python 2.7.12
 
